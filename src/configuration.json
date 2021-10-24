@@ -1,0 +1,39 @@
+{
+    "website": {
+        "base_title": "iosifache's Personal Website",
+        "title_separator": " | "
+    },
+    "articles": {
+        "library": [
+            {
+                "title": "First Mock Article",
+                "creation_time": "22.10.2021",
+                "language": "Romanian",
+                "minutes_to_read": 10,
+                "tags": ["article"]
+            },
+            {
+                "title": "Second Mock Article",
+                "creation_time": "24.10.2021",
+                "language": "English",
+                "minutes_to_read": 20,
+                "tags": ["cheatsheet"]
+            }
+        ],
+        "tag_prefix": "#"
+    },
+    "external_links": [
+        {
+            "caption": "First Website",
+            "link": "#"
+        },
+        {
+            "caption": "Second Website",
+            "link": "#"
+        },
+        {
+            "caption": "Third Website",
+            "link": "#"
+        }
+    ]
+}
